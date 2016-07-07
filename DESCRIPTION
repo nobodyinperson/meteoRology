@@ -1,4 +1,4 @@
-Package: meteorology
+Package: meteoRology
 Type: Package
 Title: Basic meteorology functions
 Version: 1.0.0
