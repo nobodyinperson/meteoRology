@@ -1,0 +1,12 @@
+Package: meteorology
+Type: Package
+Title: Basic meteorology functions
+Version: 1.0.0
+Date: 2015-06-13
+Author: Yann Buechau <nobodyinperson@gmx.de>
+Maintainer: Yann Buechau <nobodyinperson@gmx.de>
+Description: Provides functions for basic meteorology calculations.
+Suggests:
+    compiler
+License: GPL-3
+RoxygenNote: 5.0.1
